@@ -1,0 +1,64 @@
+body {
+    background: url(./wall/shattered-island.gif) repeat;
+    text-align: center;
+}
+
+#wrap {
+    width: 802px;
+    margin: 0 auto;
+}
+
+#head {
+    border-left: 1px solid #d4d4d4;
+    border-right: 1px solid #d4d4d4;
+    border-bottom: 1px solid #d4d4d4;
+    background: url(images/bg_head.png) bottom left repeat-x #106eb7;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.editor {
+    box-sizing: border-box;
+    height: 100%;
+    padding-top: 5px;
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+}
+
+img, video {
+    box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.6);
+}
+
+h1 {
+    color: white;
+}
+
+input.color {
+    color: lightblue;
+}
+
+p {
+    color: lightblue;
+}
+
+.message {
+    color: red;
+}
+
+dl {
+    margin-bottom: 10px;
+}
+
+dt {
+    color: lightblue;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+dd {
+    margin-bottom: 1.5em;
+}
